@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "portfolio": "Portofolio",
+    "pricing": "Harga",
+    "about": "Tentang",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontak"
+  },
+"common": {
+  "letsTalk": "Mari Bicara",
+  "viewDemo": "Lihat Demo",
+  "viewLive": "Kunjungi Website",
+  "viewDetail": "Lihat Detail",
+  "viewAll": "Lihat Semua",
+  "backTo": "Kembali ke",
+  "readMore": "Baca Selengkapnya",
+  "minRead": "menit baca",
+  "loading": "Memuat...",
+  "searchPlaceholder": "Cari...",
+  "noResults": "Tidak ada hasil.",
+  "reset": "Reset Filter",
+  "copyLink": "Salin Tautan",
+  "copied": "Tersalin",
+  "share": "Bagikan",
+  "available": "Tersedia untuk proyek terpilih",
+  "emailSubject": "Inquiry Proyek Baru — Nacode",
+  "included": "Termasuk",
+  "setup": "Setup",
+  "catalog": "Katalog",
+  "customValue": "Custom",
+  "enterpriseValue": "Enterprise",
+  "roadmapValue": "Roadmap",
+  "accountsUnit": "akun",
+  "daysUnit": "hari"
+},
+  "hero": {
+    "eyebrow": "Studio Pengembangan Web Independen",
+    "title1": "Pengalaman Digital,",
+    "title2": "Dibangun Dengan",
+    "titleAccent": "Tujuan.",
+    "description": "Kami merancang dan membangun website modern yang membantu bisnis membangun kepercayaan, menonjol, dan tumbuh di dunia digital.",
+    "ctaWork": "Jelajahi Karya Kami",
+    "ctaProject": "Mulai Proyek",
+    "scroll": "Scroll untuk menjelajah"
+  },
+  "home": {
+    "work": {
+      "eyebrow": "01 — Portofolio",
+      "title": "Karya Pilihan.",
+      "subtitle": "Kumpulan pengalaman digital yang dirancang dengan tujuan.",
+      "viewAll": "Lihat Semua Proyek"
+    },
+    "services": {
+      "eyebrow": "02 — Layanan",
+      "title": "Apa yang Kami Lakukan.",
+      "subtitle": "Kami menggabungkan desain, strategi, dan rekayasa untuk membangun website yang fungsional sekaligus indah.",
+      "bottomLink": "Ada kebutuhan lain? Mari bicara",
+      "items": {
+        "business": {
+          "title": "Website Bisnis",
+          "desc": "Website profesional untuk bisnis dan UMKM yang ingin tampil kredibel dan terpercaya."
+        },
+        "landing": {
+          "title": "Landing Page",
+          "desc": "Landing page yang dirancang untuk kampanye, peluncuran produk, dan konversi."
+        },
+        "custom": {
+          "title": "Pengembangan Web Kustom",
+          "desc": "Website dengan fitur dan kebutuhan khusus — dibangun dari nol, sesuai alur bisnis Anda."
+        },
+        "design": {
+          "title": "Desain UI/UX",
+          "desc": "Desain antarmuka yang modern, intuitif, dan mudah digunakan di semua perangkat."
+        },
+        "optimization": {
+          "title": "Optimasi Website",
+          "desc": "Optimasi performa, desain responsif, dan SEO teknis agar website bekerja maksimal."
+        }
+      }
+    },
+"about": {
+  "eyebrow": "04 — Kenapa Nacode",
+  "title": "Dibangun Berbeda.",
+  "titleAccent": "Dibangun Dengan Tujuan.",
+  "description": "Nacode adalah studio web independen. Kami bekerja sama dengan sedikit klien pada satu waktu — cukup untuk memberikan setiap proyek perhatian yang layak diterimanya. Tanpa account manager, tanpa kerumitan.",
+  "cta": "Bekerja dengan kami",
+  "items": {
+    "custom": {
+      "title": "Desain Kustom",
+      "desc": "Setiap proyek dimulai dari nol — tanpa template, tanpa layout daur ulang."
+    },
+    "responsive": {
+      "title": "Responsif Secara Default",
+      "desc": "Layout fluid yang terasa disengaja di setiap ukuran layar."
+    },
+    "performance": {
+      "title": "Fokus Performa",
+      "desc": "Pemuatan cepat, kode bersih, dan skor Lighthouse yang menghormati pengguna."
+    },
+    "seo": {
+      "title": "Ramah SEO",
+      "desc": "Markup semantik dan praktik teknis terbaik sudah tertanam sejak hari pertama."
+    },
+    "transparent": {
+      "title": "Proses Transparan",
+      "desc": "Timeline jelas, update jujur, tanpa kejutan di sepanjang jalan."
+    },
+    "detail": {
+      "title": "Perhatian pada Detail",
+      "desc": "Hal-hal kecil — spacing, motion, tipografi — tidak pernah jadi renungan belakangan."
+    }
+  }
+},
+"pricing": {
+  "eyebrow": "05 — Harga",
+  "title": "Harga yang Jelas.",
+  "titleAccent": "Fitur yang Terukur.",
+  "subtitle": "Dari microsite UMKM hingga strategic software partnership untuk ekosistem enterprise. Semua sudah termasuk domain & hosting sesuai paket.",
+  "popular": "Paling Dipilih",
+  "viewDetail": "Lihat Detail",
+  "viewAll": "Lihat Semua {count} Paket"
+},
+"process": {
+  "eyebrow": "03 — Proses",
+  "title": "Dari Ide ke Peluncuran.",
+  "subtitle": "Proses yang jelas dan transparan — dari percakapan pertama hingga deployment final.",
+  "items": {
+    "discovery": {
+      "title": "Eksplorasi",
+      "desc": "Memahami bisnis, audiens, dan tujuan Anda sebelum satu piksel pun digambar."
+    },
+    "design": {
+      "title": "Desain",
+      "desc": "Menciptakan arah visual dan pengalaman pengguna yang selaras dengan brand Anda."
+    },
+    "development": {
+      "title": "Pengembangan",
+      "desc": "Membangun website yang responsif, cepat, dan fungsional — piksel demi piksel."
+    },
+    "launch": {
+      "title": "Peluncuran",
+      "desc": "Pengujian, optimasi, dan deployment. Website Anda live dengan percaya diri."
+    }
+  }
+},
+    "testimonials": {
+      "eyebrow": "06 — Kepercayaan",
+      "title": "Dibangun di Atas Kepercayaan",
+      "titleAccent": "& Kolaborasi.",
+      "description": "Kami sedang mengumpulkan cerita dari klien pertama. Sementara itu, Anda bisa melihat bagaimana kami bekerja melalui portofolio dan proses.",
+      "quote": "Setiap proyek yang kami kerjakan dimulai dari percakapan yang jujur — tentang tujuan, batasan, dan apa yang benar-benar dibutuhkan bisnis.",
+      "authorName": "Nacode Studio",
+      "authorRole": "Prinsip Studio"
+    },
+    "faq": {
+      "eyebrow": "07 — FAQ",
+      "title": "Pertanyaan yang",
+      "titleAccent": "Sering Diajukan.",
+      "viewAll": "Lihat semua FAQ"
+    },
+"cta": {
+  "eyebrow": "08 — Kontak",
+  "title": "Punya Ide?",
+  "titleAccent": "Mari Wujudkan.",
+  "description": "Mari ciptakan pengalaman digital yang membawa bisnis Anda ke depan.",
+  "primaryCta": "Mulai Percakapan",
+  "secondaryCta": "Kirim Email"
+}
+  },
+  "pages": {
+    "services": {
+      "eyebrow": "Layanan",
+      "title": "Layanan yang Dirancang untuk Kebutuhan Nyata.",
+      "description": "Setiap bisnis punya kebutuhan berbeda. Kami menyediakan layanan yang bisa disesuaikan dengan tujuan dan tahap bisnis Anda.",
+      "detail": {
+        "overview": "Ikhtisar",
+        "problems": "Masalah yang kami selesaikan",
+        "process": "Proses Pengembangan",
+        "features": "Yang termasuk",
+        "benefits": "Manfaat",
+        "pricingRef": "Referensi harga",
+        "viewPricing": "Lihat semua paket",
+        "related": "Portofolio terkait",
+        "relatedTitle": "Contoh pekerjaan kami",
+        "allProjects": "Semua proyek",
+        "consult": "Konsultasi",
+        "faqTitle": "Pertanyaan tentang"
+      }
+    },
+    "portfolio": {
+      "eyebrow": "Portofolio",
+      "title": "Karya yang Dibangun dengan Tujuan.",
+      "description": "Setiap proyek adalah eksplorasi masalah dan solusi. Sebagian besar di antaranya adalah proyek konsep yang kami kerjakan secara mandiri.",
+      "concept": "Proyek Konsep",
+      "allProjects": "Semua Proyek",
+      "searchPlaceholder": "Cari proyek...",
+      "noResults": "Tidak ada proyek yang cocok dengan pencarian Anda.",
+      "detail": {
+        "overview": "Ikhtisar",
+        "problem": "Masalah",
+        "solution": "Solusi",
+        "process": "Proses Pengembangan",
+        "features": "Fitur",
+        "techStack": "Teknologi",
+        "liveDemo": "Demo Langsung",
+        "tryDemo": "Coba proyek ini langsung",
+        "liveSite": "Website Langsung",
+        "visitSite": "Kunjungi website resmi",
+        "interested": "Saya tertarik proyek serupa",
+        "related": "Proyek lainnya",
+        "allRelated": "Semua proyek",
+        "category": "Kategori",
+        "year": "Tahun",
+        "type": "Tipe",
+        "typeConcept": "Proyek Konsep",
+        "typeClient": "Proyek Klien"
+      }
+    },
+"pricing": {
+  "eyebrow": "Harga",
+  "title": "Harga yang Jelas. Fitur yang Terukur.",
+  "description": "Tujuh paket untuk tujuh tahap bisnis berbeda — dari microsite UMKM hingga strategic software partnership.",
+  "comparison": "Perbandingan Paket",
+  "comparisonHint": "Geser tabel ke kanan untuk melihat semua {count} paket.",
+  "faqTitle": "Pertanyaan seputar harga",
+  "feature": "Fitur",
+  "popular": "Paling Dipilih",
+  "ctaTitle": "Bingung pilih paket yang mana?",
+  "ctaDescription": "Ceritakan tahap bisnis Anda. Kami akan rekomendasikan paket yang paling sesuai — tanpa memaksa upgrade.",
+  "domainHosting": "Domain & Hosting",
+  "pages": "Halaman",
+  "revisions": "Revisi",
+  "timeline": "Waktu Pengerjaan",
+  "priceDisclaimer": "Harga dalam Rupiah Indonesia. Konversi mata uang lain adalah estimasi dan dapat berubah sesuai kurs.",
+  "comparisonRows": {
+    "domainHosting": "Domain & hosting",
+    "pageCount": "Jumlah halaman",
+    "customDesign": "Desain custom",
+    "responsive": "Responsive mobile-first",
+    "seo": "SEO dasar / on-page",
+    "whatsapp": "Integrasi WhatsApp",
+    "ssl": "SSL / HTTPS",
+    "businessEmail": "Email bisnis",
+    "copywriting": "Copywriting persuasif",
+    "analytics": "FB Pixel / Google Analytics",
+    "cms": "CMS / dashboard admin",
+    "productCatalog": "Katalog produk & stok",
+    "shipping": "Kalkulasi ongkir kurir lokal",
+    "auth": "Autentikasi pengguna",
+    "sourceCode": "Source code milik klien",
+    "digitalStrategy": "Konsultasi strategi digitalisasi",
+    "scalable": "Arsitektur scalable (high traffic)",
+    "multiPlatform": "Integrasi multi-platform (Web/API/Mobile)",
+    "sla": "SLA uptime & support prioritas",
+    "highSecurity": "Keamanan data tingkat tinggi",
+    "revisions": "Revisi",
+    "timeline": "Timeline pengerjaan"
+  }
+},
+    "about": {
+      "eyebrow": "Tentang",
+      "title": "Studio Kecil dengan Fokus yang Jelas.",
+      "description": "Nacode bukan agency besar. Kami adalah studio independen yang memilih bekerja dengan jumlah proyek terbatas agar setiap klien mendapat perhatian penuh.",
+      "whyTitle": "Kenapa Nacode ada.",
+      "whyP1": "Banyak bisnis kecil dan menengah punya produk atau layanan yang layak dipercaya — tetapi kehadiran digitalnya belum mencerminkan kualitas tersebut.",
+      "whyP2": "Nacode hadir untuk menutup jarak itu. Kami membangun website yang tidak hanya terlihat baik, tetapi bekerja: cepat, jelas, dan mengarahkan pengunjung untuk mengambil tindakan.",
+      "vision": "Visi",
+      "visionText": "Menjadi studio web development yang dipercaya karena kualitas karya dan kejujuran proses.",
+      "mission": "Misi",
+      "missionText": "Membantu bisnis membangun fondasi digital yang kuat melalui website yang dirancang dengan niat dan dibangun dengan presisi.",
+      "founder": "Pendiri",
+      "founderText": "Nacode dikerjakan langsung oleh pendiri — dari diskusi awal, desain, hingga pengembangan. Tidak ada perantara, tidak ada estafet komunikasi.",
+      "startDiscuss": "Mulai diskusi"
+    },
+    "blog": {
+      "eyebrow": "Blog",
+      "title": "Catatan tentang Web & Bisnis.",
+      "description": "Insight praktis tentang membangun kehadiran digital yang bekerja — tanpa jargon, tanpa filler.",
+      "featured": "Artikel Utama",
+      "searchPlaceholder": "Cari artikel...",
+      "noResults": "Tidak ada artikel yang cocok dengan pencarian Anda.",
+      "related": "Artikel terkait",
+      "relatedTitle": "Lanjutkan membaca",
+      "onThisPage": "Di halaman ini",
+      "backToBlog": "Kembali ke semua artikel",
+      "author": "Penulis",
+      "allCategories": "Semua"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Pertanyaan yang Sering Diajukan.",
+      "description": "Jawaban jujur untuk pertanyaan yang paling sering kami terima.",
+      "searchPlaceholder": "Cari pertanyaan...",
+      "noResults": "Tidak ada pertanyaan yang cocok.",
+      "all": "Semua",
+      "categories": {
+        "general": "Umum",
+        "pricing": "Harga",
+        "development": "Proses Pengembangan",
+        "hosting": "Hosting & Domain",
+        "maintenance": "Maintenance",
+        "technical": "Teknis"
+      }
+    },
+    "contact": {
+      "eyebrow": "Kontak",
+      "title": "Ceritakan Proyek Anda.",
+      "description": "Isi form di bawah atau hubungi kami langsung. Kami akan merespons dalam 1×24 jam kerja.",
+      "email": "Email",
+      "location": "Lokasi",
+      "form": {
+        "name": "Nama",
+        "business": "Nama Bisnis",
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "websiteType": "Jenis Website",
+        "websiteTypePlaceholder": "Pilih jenis website",
+        "budget": "Rentang Budget",
+        "budgetPlaceholder": "Pilih range budget",
+        "description": "Deskripsi Proyek",
+        "submit": "Kirim via WhatsApp",
+        "submitting": "Membuka WhatsApp...",
+        "required": "wajib diisi",
+        "invalidEmail": "Format email tidak valid.",
+        "websiteTypes": {
+        "landing": "Landing Page",
+        "companyProfile": "Company Profile",
+        "webApp": "Web App Custom",
+        "school": "Website Sekolah",
+        "ecommerce": "E-Commerce",
+        "maintenance": "Maintenance / SEO"
+      },
+      "budgets": {
+        "under1": "Di bawah Rp 1 juta",
+        "between2and5": "Rp 2 – 5 juta",
+        "between5and10": "Rp 5 – 10 juta",
+        "over10": "Di atas Rp 10 juta"
+      }
+      }
+    }
+  },
+  "footer": {
+    "sitemap": "Peta Situs",
+    "social": "Sosial",
+    "contact": "Kontak",
+    "copyright": "Semua hak dilindungi.",
+    "tagline": "Didesain dengan niat. Dibangun dengan presisi.",
+    "description": "Studio pengembangan web kreatif yang menciptakan pengalaman digital modern untuk bisnis ambisius."
+  }
+}

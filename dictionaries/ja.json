@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "services": "サービス",
+    "portfolio": "ポートフォリオ",
+    "pricing": "料金",
+    "about": "会社概要",
+    "blog": "ブログ",
+    "faq": "FAQ",
+    "contact": "お問い合わせ"
+  },
+"common": {
+  "letsTalk": "ご相談はこちら",
+  "viewDemo": "デモを見る",
+  "viewLive": "サイトを見る",
+  "viewDetail": "詳細を見る",
+  "viewAll": "すべて見る",
+  "backTo": "戻る",
+  "readMore": "続きを読む",
+  "minRead": "分で読了",
+  "loading": "読み込み中...",
+  "searchPlaceholder": "検索...",
+  "noResults": "結果が見つかりません。",
+  "reset": "フィルターをリセット",
+  "copyLink": "リンクをコピー",
+  "copied": "コピーしました",
+  "share": "シェア",
+  "available": "一部の案件を受付中",
+  "emailSubject": "新規プロジェクトのお問い合わせ — Nacode",
+  "included": "含む",
+  "setup": "セットアップ",
+  "catalog": "カタログ",
+  "customValue": "カスタム",
+  "enterpriseValue": "エンタープライズ",
+  "roadmapValue": "ロードマップ",
+  "accountsUnit": "アカウント",
+  "daysUnit": "日"
+},
+  "hero": {
+    "eyebrow": "独立系ウェブ開発スタジオ",
+    "title1": "デジタル体験を、",
+    "title2": "目的を持って",
+    "titleAccent": "構築します。",
+    "description": "企業が信頼を築き、際立ち、デジタル社会で成長できるよう、モダンなウェブサイトをデザイン・開発します。",
+    "ctaWork": "制作実績を見る",
+    "ctaProject": "プロジェクトを始める",
+    "scroll": "スクロールして探索"
+  },
+  "home": {
+    "work": {
+      "eyebrow": "01 — ポートフォリオ",
+      "title": "選定した作品。",
+      "subtitle": "目的を持って作り上げたデジタル体験のコレクション。",
+      "viewAll": "すべてのプロジェクトを見る"
+    },
+    "services": {
+      "eyebrow": "02 — サービス",
+      "title": "私たちのサービス。",
+      "subtitle": "デザイン・戦略・エンジニアリングを組み合わせ、美しく機能的なウェブサイトを構築します。",
+      "bottomLink": "その他のご要望がありますか？ご相談ください",
+      "items": {
+        "business": {
+          "title": "ビジネスウェブサイト",
+          "desc": "信頼と専門性を伝えたい企業や中小企業のためのプロフェッショナルなウェブサイト。"
+        },
+        "landing": {
+          "title": "ランディングページ",
+          "desc": "キャンペーン、製品発表、コンバージョンのために設計されたランディングページ。"
+        },
+        "custom": {
+          "title": "カスタムウェブ開発",
+          "desc": "ビジネスのワークフローに合わせてゼロから構築された、特定の機能と要件を持つウェブサイト。"
+        },
+        "design": {
+          "title": "UI/UX デザイン",
+          "desc": "すべてのデバイスでモダン、直感的、使いやすいインターフェース。"
+        },
+        "optimization": {
+          "title": "ウェブサイト最適化",
+          "desc": "パフォーマンス最適化、レスポンシブデザイン、技術的SEOでウェブサイトを最大限に機能させます。"
+        }
+      }
+    },
+"about": {
+  "eyebrow": "04 — Nacodeを選ぶ理由",
+  "title": "他とは違う。",
+  "titleAccent": "目的を持って。",
+  "description": "Nacodeは独立系ウェブスタジオです。少数のクライアントと集中的に仕事をし、各プロジェクトに必要な注意を注ぎます。アカウントマネージャーも、無駄もありません。",
+  "cta": "私たちと働く",
+  "items": {
+    "custom": {
+      "title": "カスタムデザイン",
+      "desc": "すべてのプロジェクトはゼロから始まります — テンプレートも、使い回しのレイアウトもありません。"
+    },
+    "responsive": {
+      "title": "デフォルトでレスポンシブ",
+      "desc": "あらゆる画面サイズで意図的に感じられる流動的なレイアウト。"
+    },
+    "performance": {
+      "title": "パフォーマンス重視",
+      "desc": "高速な読み込み、クリーンなコード、ユーザーを尊重する Lighthouse スコア。"
+    },
+    "seo": {
+      "title": "SEO フレンドリー",
+      "desc": "セマンティックなマークアップと技術的なベストプラクティスが初日から組み込まれています。"
+    },
+    "transparent": {
+      "title": "透明なプロセス",
+      "desc": "明確なスケジュール、正直なアップデート、途中での予期せぬことはありません。"
+    },
+    "detail": {
+      "title": "細部へのこだわり",
+      "desc": "スペーシング、モーション、タイポグラフィといった小さなことこそ、決して後回しにされません。"
+    }
+  }
+},
+"pricing": {
+  "eyebrow": "05 — 料金",
+  "title": "明確な価格。",
+  "titleAccent": "測定可能な機能。",
+  "subtitle": "中小企業のマイクロサイトからエンタープライズ向け戦略的ソフトウェアパートナーシップまで。すべてのプランにドメイン & ホスティングが含まれます。",
+  "popular": "一番人気",
+  "viewDetail": "詳細を見る",
+  "viewAll": "すべての {count} プランを見る"
+},
+"process": {
+  "eyebrow": "03 — プロセス",
+  "title": "アイデアからローンチまで。",
+  "subtitle": "最初の会話から最終デプロイまで、明確で透明なプロセス。",
+  "items": {
+    "discovery": {
+      "title": "探索",
+      "desc": "ピクセルを一つ描く前に、ビジネス、オーディエンス、目標を理解します。"
+    },
+    "design": {
+      "title": "デザイン",
+      "desc": "ブランドに沿ったビジュアルの方向性とユーザー体験を創り出します。"
+    },
+    "development": {
+      "title": "開発",
+      "desc": "レスポンシブで高速、機能的なウェブサイトをピクセル単位で構築します。"
+    },
+    "launch": {
+      "title": "ローンチ",
+      "desc": "テスト、最適化、デプロイ。自信を持ってサイトを公開します。"
+    }
+  }
+},
+    "testimonials": {
+      "eyebrow": "06 — 信頼",
+      "title": "信頼と",
+      "titleAccent": "協働の上に。",
+      "description": "最初のクライアントからの声を集めています。それまでは、ポートフォリオとプロセスから私たちの仕事の進め方をご覧いただけます。",
+      "quote": "私たちのすべてのプロジェクトは、目標、制約、そしてビジネスに本当に必要なものについての正直な会話から始まります。",
+      "authorName": "Nacode Studio",
+      "authorRole": "スタジオ原則"
+    },
+    "faq": {
+      "eyebrow": "07 — FAQ",
+      "title": "よくある",
+      "titleAccent": "ご質問。",
+      "viewAll": "すべてのFAQを見る"
+    },
+"cta": {
+  "eyebrow": "08 — お問い合わせ",
+  "title": "アイデアはありますか？",
+  "titleAccent": "共に実現しましょう。",
+  "description": "ビジネスを前進させるデジタル体験を共に創りましょう。",
+  "primaryCta": "会話を始める",
+  "secondaryCta": "メールを送る"
+}
+  },
+  "pages": {
+    "services": {
+      "eyebrow": "サービス",
+      "title": "実際のニーズのために設計されたサービス。",
+      "description": "すべてのビジネスには異なるニーズがあります。目標とビジネス段階に合わせたサービスを提供します。",
+      "detail": {
+        "overview": "概要",
+        "problems": "私たちが解決する課題",
+        "process": "開発プロセス",
+        "features": "含まれるもの",
+        "benefits": "メリット",
+        "pricingRef": "価格の参考",
+        "viewPricing": "すべてのプランを見る",
+        "related": "関連ポートフォリオ",
+        "relatedTitle": "私たちの仕事例",
+        "allProjects": "すべてのプロジェクト",
+        "consult": "ご相談",
+        "faqTitle": "よくある質問："
+      }
+    },
+    "portfolio": {
+      "eyebrow": "ポートフォリオ",
+      "title": "目的を持って作った作品。",
+      "description": "各プロジェクトは課題と解決策の探求です。そのほとんどは、私たちが独自に制作したコンセプトプロジェクトです。",
+      "concept": "コンセプトプロジェクト",
+      "allProjects": "すべてのプロジェクト",
+      "searchPlaceholder": "プロジェクトを検索...",
+      "noResults": "検索に一致するプロジェクトはありません。",
+      "detail": {
+        "overview": "概要",
+        "problem": "課題",
+        "solution": "解決策",
+        "process": "開発プロセス",
+        "features": "機能",
+        "techStack": "技術スタック",
+        "liveDemo": "ライブデモ",
+        "tryDemo": "このプロジェクトを実際に試す",
+        "liveSite": "ライブサイト",
+        "visitSite": "公式サイトを訪問",
+        "interested": "似たプロジェクトに興味があります",
+        "related": "その他のプロジェクト",
+        "allRelated": "すべてのプロジェクト",
+        "category": "カテゴリ",
+        "year": "年",
+        "type": "タイプ",
+        "typeConcept": "コンセプトプロジェクト",
+        "typeClient": "クライアントプロジェクト"
+      }
+    },
+"pricing": {
+  "eyebrow": "料金",
+  "title": "明確な価格。測定可能な機能。",
+  "description": "7つのプラン、7つのビジネス段階 — マイクロサイトから戦略的ソフトウェアパートナーシップまで。",
+  "comparison": "プラン比較",
+  "comparisonHint": "すべての {count} プランを表示するには表を横にスクロールしてください。",
+  "faqTitle": "料金に関するご質問",
+  "feature": "機能",
+  "popular": "一番人気",
+  "ctaTitle": "どのプランを選べばいいか分かりませんか？",
+  "ctaDescription": "ビジネス段階をお聞かせください。最適なプランをご提案します — アップグレードを強制することはありません。",
+  "domainHosting": "ドメイン & ホスティング",
+  "pages": "ページ",
+  "revisions": "修正回数",
+  "timeline": "スケジュール",
+  "priceDisclaimer": "価格はインドネシアルピア建てです。他の通貨への換算は概算であり、為替レートにより変動する可能性があります。",
+  "comparisonRows": {
+    "domainHosting": "ドメイン & ホスティング",
+    "pageCount": "ページ数",
+    "customDesign": "カスタムデザイン",
+    "responsive": "モバイルファーストレスポンシブ",
+    "seo": "基本 / オンページSEO",
+    "whatsapp": "WhatsApp連携",
+    "ssl": "SSL / HTTPS",
+    "businessEmail": "ビジネスメール",
+    "copywriting": "説得力のあるコピーライティング",
+    "analytics": "FB Pixel / Google Analytics",
+    "cms": "CMS / 管理ダッシュボード",
+    "productCatalog": "商品カタログ & 在庫",
+    "shipping": "ローカル配送業者の送料計算",
+    "auth": "ユーザー認証",
+    "sourceCode": "クライアント所有のソースコード",
+    "digitalStrategy": "デジタル化戦略コンサルティング",
+    "scalable": "スケーラブルアーキテクチャ（高トラフィック）",
+    "multiPlatform": "マルチプラットフォーム統合（Web/API/モバイル）",
+    "sla": "SLA稼働率 & 優先サポート",
+    "highSecurity": "高水準のデータセキュリティ",
+    "revisions": "修正回数",
+    "timeline": "プロジェクトスケジュール"
+  }
+},
+    "about": {
+      "eyebrow": "会社概要",
+      "title": "明確な焦点を持つ小さなスタジオ。",
+      "description": "Nacodeは大きな代理店ではありません。限られたプロジェクトに集中することで、すべてのクライアントが十分な注意を受けることを選んだ独立スタジオです。",
+      "whyTitle": "Nacodeが存在する理由。",
+      "whyP1": "多くの中小企業は信頼に値する製品やサービスを持っていますが、そのデジタルプレゼンスはその品質を反映していません。",
+      "whyP2": "Nacodeはそのギャップを埋めるために存在します。見た目が良いだけでなく、実際に機能するウェブサイトを構築します：高速で、明確で、訪問者を行動へと導く。",
+      "vision": "ビジョン",
+      "visionText": "仕事の品質とプロセスの誠実さで信頼されるウェブ開発スタジオになること。",
+      "mission": "ミッション",
+      "missionText": "意図を持って設計され、精密に構築されたウェブサイトを通じて、企業が強固なデジタル基盤を築くのを支援すること。",
+      "founder": "創業者",
+      "founderText": "Nacodeは創業者が直接運営しています — 初期のディスカッションからデザイン、開発まで。中間業者も、コミュニケーションのリレーもありません。",
+      "startDiscuss": "ディスカッションを始める"
+    },
+    "blog": {
+      "eyebrow": "ブログ",
+      "title": "ウェブとビジネスに関するノート。",
+      "description": "機能するデジタルプレゼンスの構築に関する実践的なインサイト — 専門用語も、フィラーもなし。",
+      "featured": "注目記事",
+      "searchPlaceholder": "記事を検索...",
+      "noResults": "検索に一致する記事はありません。",
+      "related": "関連記事",
+      "relatedTitle": "続きを読む",
+      "onThisPage": "このページの目次",
+      "backToBlog": "すべての記事に戻る",
+      "author": "著者",
+      "allCategories": "すべて"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "よくあるご質問。",
+      "description": "最もよくいただく質問への正直な回答。",
+      "searchPlaceholder": "質問を検索...",
+      "noResults": "一致する質問はありません。",
+      "all": "すべて",
+      "categories": {
+        "general": "一般",
+        "pricing": "料金",
+        "development": "開発プロセス",
+        "hosting": "ホスティング & ドメイン",
+        "maintenance": "メンテナンス",
+        "technical": "技術"
+      }
+    },
+    "contact": {
+      "eyebrow": "お問い合わせ",
+      "title": "プロジェクトについて教えてください。",
+      "description": "下のフォームに記入するか、直接ご連絡ください。営業時間内に1×24時間以内に返信いたします。",
+      "email": "メール",
+      "location": "所在地",
+      "form": {
+        "name": "お名前",
+        "business": "会社名",
+        "email": "メール",
+        "whatsapp": "WhatsApp",
+        "websiteType": "ウェブサイトの種類",
+        "websiteTypePlaceholder": "ウェブサイトの種類を選択",
+        "budget": "予算範囲",
+        "budgetPlaceholder": "予算範囲を選択",
+        "description": "プロジェクトの説明",
+        "submit": "WhatsAppで送信",
+        "submitting": "WhatsAppを開いています...",
+        "required": "必須",
+        "invalidEmail": "メール形式が正しくありません。",
+        "websiteTypes": {
+  "landing": "ランディングページ",
+  "companyProfile": "会社概要",
+  "webApp": "カスタムWebアプリ",
+  "school": "学校ウェブサイト",
+  "ecommerce": "Eコマース",
+  "maintenance": "メンテナンス / SEO"
+},
+"budgets": {
+  "under1": "100万ルピア未満",
+  "between2and5": "200万～500万ルピア",
+  "between5and10": "500万～1000万ルピア",
+  "over10": "1000万ルピア以上"
+}
+      }
+    }
+  },
+  "footer": {
+    "sitemap": "サイトマップ",
+    "social": "ソーシャル",
+    "contact": "お問い合わせ",
+    "copyright": "全著作権所有。",
+    "tagline": "意図を持ってデザイン。精密に開発。",
+    "description": "野心的なビジネスのためにモダンなデジタル体験を創るクリエイティブなウェブ開発スタジオ。"
+  }
+}

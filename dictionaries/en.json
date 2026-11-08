@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "about": "About",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+"common": {
+  "letsTalk": "Let's Talk",
+  "viewDemo": "View Demo",
+  "viewLive": "Visit Live Site",
+  "viewDetail": "View Detail",
+  "viewAll": "View All",
+  "backTo": "Back to",
+  "readMore": "Read More",
+  "minRead": "min read",
+  "loading": "Loading...",
+  "searchPlaceholder": "Search...",
+  "noResults": "No results found.",
+  "reset": "Reset Filter",
+  "copyLink": "Copy Link",
+  "copied": "Copied",
+  "share": "Share",
+  "available": "Available for selected projects",
+  "emailSubject": "New Project Inquiry — Nacode",
+  "included": "Included",
+  "setup": "Setup",
+  "catalog": "Catalog",
+  "customValue": "Custom",
+  "enterpriseValue": "Enterprise",
+  "roadmapValue": "Roadmap",
+  "accountsUnit": "account(s)",
+  "daysUnit": "days"
+},
+  "hero": {
+    "eyebrow": "Independent Web Development Studio",
+    "title1": "Digital Experiences,",
+    "title2": "Built With",
+    "titleAccent": "Purpose.",
+    "description": "We design and develop modern websites that help businesses build trust, stand out, and grow in the digital world.",
+    "ctaWork": "Explore Our Work",
+    "ctaProject": "Start a Project",
+    "scroll": "Scroll to explore"
+  },
+  "home": {
+    "work": {
+      "eyebrow": "01 — Portfolio",
+      "title": "Selected Work.",
+      "subtitle": "A collection of digital experiences crafted with purpose.",
+      "viewAll": "View All Projects"
+    },
+    "services": {
+      "eyebrow": "02 — Services",
+      "title": "What We Do.",
+      "subtitle": "We combine design, strategy, and engineering to build websites that are as functional as they are beautiful.",
+      "bottomLink": "Have something else in mind? Let's talk",
+      "items": {
+        "business": {
+          "title": "Business Website",
+          "desc": "Professional websites for businesses and SMEs that want to appear credible and trustworthy."
+        },
+        "landing": {
+          "title": "Landing Page",
+          "desc": "Landing pages designed for campaigns, product launches, and conversions."
+        },
+        "custom": {
+          "title": "Custom Web Development",
+          "desc": "Websites with specific features and needs — built from scratch to fit your business workflow."
+        },
+        "design": {
+          "title": "UI/UX Design",
+          "desc": "Modern, intuitive, and user-friendly interfaces across all devices."
+        },
+        "optimization": {
+          "title": "Website Optimization",
+          "desc": "Performance optimization, responsive design, and technical SEO so your website performs at its best."
+        }
+      }
+    },
+"about": {
+  "eyebrow": "04 — Why Nacode",
+  "title": "Built Different.",
+  "titleAccent": "Built With Purpose.",
+  "description": "Nacode is an independent web studio. We work closely with a small number of clients at a time — enough to give each project the care it deserves. No account managers, no bloat.",
+  "cta": "Work with us",
+  "items": {
+    "custom": {
+      "title": "Custom Design",
+      "desc": "Every project starts from zero — no templates, no recycled layouts."
+    },
+    "responsive": {
+      "title": "Responsive by Default",
+      "desc": "Fluid layouts that feel intentional on every screen size."
+    },
+    "performance": {
+      "title": "Performance Focused",
+      "desc": "Fast loads, clean code, and Lighthouse scores that respect the user."
+    },
+    "seo": {
+      "title": "SEO Friendly",
+      "desc": "Semantic markup and technical best practices baked in from day one."
+    },
+    "transparent": {
+      "title": "Transparent Process",
+      "desc": "Clear timelines, honest updates, no surprises along the way."
+    },
+    "detail": {
+      "title": "Attention to Detail",
+      "desc": "The small things — spacing, motion, typography — are never an afterthought."
+    }
+  }
+},
+"pricing": {
+  "eyebrow": "05 — Pricing",
+  "title": "Clear Pricing.",
+  "titleAccent": "Measurable Features.",
+  "subtitle": "From SME microsites to strategic software partnerships for enterprise ecosystems. All packages include domain & hosting.",
+  "popular": "Most Popular",
+  "viewDetail": "View Detail",
+  "viewAll": "View All {count} Packages"
+},
+"process": {
+  "eyebrow": "03 — Process",
+  "title": "From Idea to Launch.",
+  "subtitle": "A clear and transparent process — from first conversation to final deployment.",
+  "items": {
+    "discovery": {
+      "title": "Discovery",
+      "desc": "Understanding your business, audience, and goals before a single pixel is drawn."
+    },
+    "design": {
+      "title": "Design",
+      "desc": "Creating a visual direction and user experience aligned with your brand."
+    },
+    "development": {
+      "title": "Development",
+      "desc": "Building a responsive, fast, and functional website — pixel by pixel."
+    },
+    "launch": {
+      "title": "Launch",
+      "desc": "Testing, optimization, and deployment. Your site goes live with confidence."
+    }
+  }
+},
+    "testimonials": {
+      "eyebrow": "06 — Trust",
+      "title": "Built on Trust",
+      "titleAccent": "& Collaboration.",
+      "description": "We're gathering stories from our first clients. Meanwhile, you can see how we work through our portfolio and process.",
+      "quote": "Every project we work on starts with an honest conversation — about goals, constraints, and what the business really needs.",
+      "authorName": "Nacode Studio",
+      "authorRole": "Studio Principle"
+    },
+    "faq": {
+      "eyebrow": "07 — FAQ",
+      "title": "Frequently",
+      "titleAccent": "Asked Questions.",
+      "viewAll": "View all FAQ"
+    },
+"cta": {
+  "eyebrow": "08 — Contact",
+  "title": "Have an Idea?",
+  "titleAccent": "Let's Make It Real.",
+  "description": "Let's create a digital experience that moves your business forward.",
+  "primaryCta": "Start a Conversation",
+  "secondaryCta": "Send an Email"
+}
+  },
+  "pages": {
+    "services": {
+      "eyebrow": "Services",
+      "title": "Services Built for Real Needs.",
+      "description": "Every business has different needs. We provide services that adapt to your goals and business stage.",
+      "detail": {
+        "overview": "Overview",
+        "problems": "Problems we solve",
+        "process": "Development Process",
+        "features": "What's included",
+        "benefits": "Benefits",
+        "pricingRef": "Pricing reference",
+        "viewPricing": "View all packages",
+        "related": "Related portfolio",
+        "relatedTitle": "Our work samples",
+        "allProjects": "All projects",
+        "consult": "Consult",
+        "faqTitle": "Questions about"
+      }
+    },
+    "portfolio": {
+      "eyebrow": "Portfolio",
+      "title": "Work Built With Purpose.",
+      "description": "Each project is an exploration of problem and solution. Most are concept projects we crafted independently.",
+      "concept": "Concept Project",
+      "allProjects": "All Projects",
+      "searchPlaceholder": "Search projects...",
+      "noResults": "No projects match your search.",
+      "detail": {
+        "overview": "Overview",
+        "problem": "Problem",
+        "solution": "Solution",
+        "process": "Development Process",
+        "features": "Features",
+        "techStack": "Tech Stack",
+        "liveDemo": "Live Demo",
+        "tryDemo": "Try this project live",
+        "liveSite": "Live Website",
+        "visitSite": "Visit the live site",
+        "interested": "I'm interested in a similar project",
+        "related": "Other projects",
+        "allRelated": "All projects",
+        "category": "Category",
+        "year": "Year",
+        "type": "Type",
+        "typeConcept": "Concept Project",
+        "typeClient": "Client Project"
+      }
+    },
+"pricing": {
+  "eyebrow": "Pricing",
+  "title": "Clear Pricing. Measurable Features.",
+  "description": "Seven packages for seven different business stages — from microsite to strategic software partnership.",
+  "comparison": "Package Comparison",
+  "comparisonHint": "Scroll the table horizontally to see all {count} packages.",
+  "faqTitle": "Questions about pricing",
+  "feature": "Feature",
+  "popular": "Most Popular",
+  "ctaTitle": "Confused about which package?",
+  "ctaDescription": "Tell us your business stage. We'll recommend the right package — no pressure to upgrade.",
+  "domainHosting": "Domain & Hosting",
+  "pages": "Pages",
+  "revisions": "Revisions",
+  "timeline": "Timeline",
+  "priceDisclaimer": "Prices in Indonesian Rupiah. Other currency conversions are estimates and may vary with the exchange rate.",
+  "comparisonRows": {
+    "domainHosting": "Domain & hosting",
+    "pageCount": "Page count",
+    "customDesign": "Custom design",
+    "responsive": "Responsive mobile-first",
+    "seo": "Basic / on-page SEO",
+    "whatsapp": "WhatsApp integration",
+    "ssl": "SSL / HTTPS",
+    "businessEmail": "Business email",
+    "copywriting": "Persuasive copywriting",
+    "analytics": "FB Pixel / Google Analytics",
+    "cms": "CMS / admin dashboard",
+    "productCatalog": "Product catalog & stock",
+    "shipping": "Local courier shipping calc",
+    "auth": "User authentication",
+    "sourceCode": "Source code owned by client",
+    "digitalStrategy": "Digitalization strategy consultation",
+    "scalable": "Scalable architecture (high traffic)",
+    "multiPlatform": "Multi-platform integration (Web/API/Mobile)",
+    "sla": "SLA uptime & priority support",
+    "highSecurity": "High-standard data security",
+    "revisions": "Revisions",
+    "timeline": "Project timeline"
+  }
+},
+    "about": {
+      "eyebrow": "About",
+      "title": "A Small Studio With Clear Focus.",
+      "description": "Nacode isn't a big agency. We're an independent studio that chooses to work with a limited number of projects so every client gets full attention.",
+      "whyTitle": "Why Nacode exists.",
+      "whyP1": "Many small and medium businesses have products or services worth trusting — but their digital presence doesn't reflect that quality.",
+      "whyP2": "Nacode exists to close that gap. We build websites that don't just look good, but work: fast, clear, and guiding visitors to take action.",
+      "vision": "Vision",
+      "visionText": "To become a web development studio trusted for the quality of its work and the honesty of its process.",
+      "mission": "Mission",
+      "missionText": "To help businesses build a strong digital foundation through websites designed with intention and built with precision.",
+      "founder": "Founder",
+      "founderText": "Nacode is run directly by the founder — from initial discussion, design, to development. No middlemen, no communication relay.",
+      "startDiscuss": "Start a discussion"
+    },
+    "blog": {
+      "eyebrow": "Blog",
+      "title": "Notes on Web & Business.",
+      "description": "Practical insights on building a digital presence that works — no jargon, no filler.",
+      "featured": "Featured Article",
+      "searchPlaceholder": "Search articles...",
+      "noResults": "No articles match your search.",
+      "related": "Related articles",
+      "relatedTitle": "Continue reading",
+      "onThisPage": "On this page",
+      "backToBlog": "Back to all articles",
+      "author": "Author",
+      "allCategories": "All"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions.",
+      "description": "Honest answers to the questions we receive most often.",
+      "searchPlaceholder": "Search questions...",
+      "noResults": "No questions match.",
+      "all": "All",
+      "categories": {
+        "general": "General",
+        "pricing": "Pricing",
+        "development": "Development Process",
+        "hosting": "Hosting & Domain",
+        "maintenance": "Maintenance",
+        "technical": "Technical"
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Tell Us About Your Project.",
+      "description": "Fill in the form below or contact us directly. We respond within 1×24 business hours.",
+      "email": "Email",
+      "location": "Location",
+      "form": {
+        "name": "Name",
+        "business": "Business Name",
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "websiteType": "Website Type",
+        "websiteTypePlaceholder": "Select website type",
+        "budget": "Budget Range",
+        "budgetPlaceholder": "Select budget range",
+        "description": "Project Description",
+        "submit": "Send via WhatsApp",
+        "submitting": "Opening WhatsApp...",
+        "required": "required",
+        "invalidEmail": "Invalid email format.",
+        "websiteTypes": {
+  "landing": "Landing Page",
+  "companyProfile": "Company Profile",
+  "webApp": "Custom Web App",
+  "school": "School Website",
+  "ecommerce": "E-Commerce",
+  "maintenance": "Maintenance / SEO"
+},
+"budgets": {
+  "under1": "Under Rp 1 million",
+  "between2and5": "Rp 2 – 5 million",
+  "between5and10": "Rp 5 – 10 million",
+  "over10": "Over Rp 10 million"
+}
+      }
+    }
+  },
+  "footer": {
+    "sitemap": "Sitemap",
+    "social": "Social",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "tagline": "Designed with intention. Developed with precision.",
+    "description": "A creative web development studio crafting modern digital experiences for ambitious businesses."
+  }
+}

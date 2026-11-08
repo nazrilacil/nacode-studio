@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "portfolio": "作品集",
+    "pricing": "价格",
+    "about": "关于",
+    "blog": "博客",
+    "faq": "常见问题",
+    "contact": "联系"
+  },
+"common": {
+  "letsTalk": "联系我们",
+  "viewDemo": "查看演示",
+  "viewLive": "访问网站",
+  "viewDetail": "查看详情",
+  "viewAll": "查看全部",
+  "backTo": "返回",
+  "readMore": "阅读更多",
+  "minRead": "分钟阅读",
+  "loading": "加载中...",
+  "searchPlaceholder": "搜索...",
+  "noResults": "未找到结果。",
+  "reset": "重置筛选",
+  "copyLink": "复制链接",
+  "copied": "已复制",
+  "share": "分享",
+  "available": "部分项目可预约",
+  "emailSubject": "新项目咨询 — Nacode",
+  "included": "包含",
+  "setup": "设置",
+  "catalog": "目录",
+  "customValue": "定制",
+  "enterpriseValue": "企业级",
+  "roadmapValue": "路线图",
+  "accountsUnit": "个账户",
+  "daysUnit": "天"
+},
+  "hero": {
+    "eyebrow": "独立网页开发工作室",
+    "title1": "数字体验，",
+    "title2": "用心",
+    "titleAccent": "打造。",
+    "description": "我们设计并开发现代网站，帮助企业在数字世界中建立信任、脱颖而出并持续成长。",
+    "ctaWork": "浏览我们的作品",
+    "ctaProject": "开始项目",
+    "scroll": "滚动探索"
+  },
+  "home": {
+    "work": {
+      "eyebrow": "01 — 作品集",
+      "title": "精选作品。",
+      "subtitle": "用心打造的数字体验合集。",
+      "viewAll": "查看所有项目"
+    },
+    "services": {
+      "eyebrow": "02 — 服务",
+      "title": "我们的服务。",
+      "subtitle": "我们将设计、策略与工程相结合，打造兼具美感与功能的网站。",
+      "bottomLink": "有其他需求？联系我们",
+      "items": {
+        "business": {
+          "title": "企业网站",
+          "desc": "为希望展示可信度和专业性的企业和中小企业提供专业网站。"
+        },
+        "landing": {
+          "title": "落地页",
+          "desc": "为营销活动、产品发布和转化而设计的落地页。"
+        },
+        "custom": {
+          "title": "定制网站开发",
+          "desc": "根据您的业务流程从零构建、具备特定功能与需求的网站。"
+        },
+        "design": {
+          "title": "UI/UX 设计",
+          "desc": "在所有设备上都现代、直观、易用的界面设计。"
+        },
+        "optimization": {
+          "title": "网站优化",
+          "desc": "性能优化、响应式设计与技术 SEO，让网站发挥最佳表现。"
+        }
+      }
+    },
+"about": {
+  "eyebrow": "04 — 为什么选择 Nacode",
+  "title": "与众不同。",
+  "titleAccent": "用心打造。",
+  "description": "Nacode 是一家独立网页工作室。我们同时只与少数客户紧密合作——确保每个项目都获得应有的关注。没有客户经理，没有冗余。",
+  "cta": "与我们合作",
+  "items": {
+    "custom": {
+      "title": "定制设计",
+      "desc": "每个项目都从零开始——没有模板，没有重复使用的布局。"
+    },
+    "responsive": {
+      "title": "默认响应式",
+      "desc": "在任何屏幕尺寸下都显得用心的流体布局。"
+    },
+    "performance": {
+      "title": "注重性能",
+      "desc": "快速加载、整洁代码，以及尊重用户的 Lighthouse 评分。"
+    },
+    "seo": {
+      "title": "SEO 友好",
+      "desc": "语义化标记和技术最佳实践从第一天起就已内建。"
+    },
+    "transparent": {
+      "title": "透明的流程",
+      "desc": "清晰的时间线、诚实的更新，过程中没有意外。"
+    },
+    "detail": {
+      "title": "注重细节",
+      "desc": "细节——间距、动效、排版——永远不会是事后的想法。"
+    }
+  }
+},
+"pricing": {
+  "eyebrow": "05 — 价格",
+  "title": "价格透明。",
+  "titleAccent": "功能可衡量。",
+  "subtitle": "从中小企业微网站到企业级战略软件合作。所有套餐均包含域名与主机。",
+  "popular": "最受欢迎",
+  "viewDetail": "查看详情",
+  "viewAll": "查看全部 {count} 个套餐"
+},
+"process": {
+  "eyebrow": "03 — 流程",
+  "title": "从想法到上线。",
+  "subtitle": "清晰透明的流程——从首次沟通到最终部署。",
+  "items": {
+    "discovery": {
+      "title": "探索",
+      "desc": "在绘制第一个像素之前，先了解您的业务、受众和目标。"
+    },
+    "design": {
+      "title": "设计",
+      "desc": "创造与您的品牌一致的视觉方向和用户体验。"
+    },
+    "development": {
+      "title": "开发",
+      "desc": "逐像素构建响应式、快速、功能完整的网站。"
+    },
+    "launch": {
+      "title": "上线",
+      "desc": "测试、优化和部署。您的网站自信上线。"
+    }
+  }
+},
+    "testimonials": {
+      "eyebrow": "06 — 信任",
+      "title": "基于信任",
+      "titleAccent": "与协作。",
+      "description": "我们正在收集首批客户的故事。在此期间，您可以通过作品集和流程了解我们的工作方式。",
+      "quote": "我们所做的每一个项目都始于一次坦诚的对话——关于目标、限制以及企业真正需要什么。",
+      "authorName": "Nacode Studio",
+      "authorRole": "工作室原则"
+    },
+    "faq": {
+      "eyebrow": "07 — 常见问题",
+      "title": "常见",
+      "titleAccent": "问题。",
+      "viewAll": "查看所有常见问题"
+    },
+"cta": {
+  "eyebrow": "08 — 联系",
+  "title": "有想法？",
+  "titleAccent": "让我们一起实现。",
+  "description": "让我们创造一个推动您企业前进的数字体验。",
+  "primaryCta": "开始对话",
+  "secondaryCta": "发送邮件"
+}
+  },
+  "pages": {
+    "services": {
+      "eyebrow": "服务",
+      "title": "为真实需求设计的服务。",
+      "description": "每个企业都有不同的需求。我们提供能适应您目标和业务阶段的服务。",
+      "detail": {
+        "overview": "概述",
+        "problems": "我们解决的问题",
+        "process": "开发流程",
+        "features": "包含内容",
+        "benefits": "优势",
+        "pricingRef": "价格参考",
+        "viewPricing": "查看所有套餐",
+        "related": "相关作品",
+        "relatedTitle": "我们的工作示例",
+        "allProjects": "所有项目",
+        "consult": "咨询",
+        "faqTitle": "关于以下内容的常见问题："
+      }
+    },
+    "portfolio": {
+      "eyebrow": "作品集",
+      "title": "用心打造的作品。",
+      "description": "每个项目都是对问题与解决方案的探索。其中大多数是我们独立打造的概念项目。",
+      "concept": "概念项目",
+      "allProjects": "所有项目",
+      "searchPlaceholder": "搜索项目...",
+      "noResults": "没有匹配的项目。",
+      "detail": {
+        "overview": "概述",
+        "problem": "问题",
+        "solution": "解决方案",
+        "process": "开发流程",
+        "features": "功能",
+        "techStack": "技术栈",
+        "liveDemo": "在线演示",
+        "tryDemo": "立即体验该项目",
+        "liveSite": "在线网站",
+        "visitSite": "访问官方网站",
+        "interested": "我对类似项目感兴趣",
+        "related": "其他项目",
+        "allRelated": "所有项目",
+        "category": "类别",
+        "year": "年份",
+        "type": "类型",
+        "typeConcept": "概念项目",
+        "typeClient": "客户项目"
+      }
+    },
+"pricing": {
+  "eyebrow": "价格",
+  "title": "价格透明。功能可衡量。",
+  "description": "七个套餐，对应七个不同业务阶段——从微网站到战略软件合作。",
+  "comparison": "套餐对比",
+  "comparisonHint": "横向滚动表格以查看全部 {count} 个套餐。",
+  "faqTitle": "关于价格的常见问题",
+  "feature": "功能",
+  "popular": "最受欢迎",
+  "ctaTitle": "不确定选哪个套餐？",
+  "ctaDescription": "告诉我们您的业务阶段，我们会推荐最合适的套餐——不施压升级。",
+  "domainHosting": "域名与主机",
+  "pages": "页面",
+  "revisions": "修改次数",
+  "timeline": "时间线",
+  "priceDisclaimer": "价格以印尼盾为准。其他货币换算为估值，可能随汇率变动。",
+  "comparisonRows": {
+    "domainHosting": "域名与主机",
+    "pageCount": "页面数量",
+    "customDesign": "定制设计",
+    "responsive": "移动优先响应式",
+    "seo": "基础 / 页面 SEO",
+    "whatsapp": "WhatsApp 集成",
+    "ssl": "SSL / HTTPS",
+    "businessEmail": "企业邮箱",
+    "copywriting": "说服性文案",
+    "analytics": "FB Pixel / Google Analytics",
+    "cms": "CMS / 管理后台",
+    "productCatalog": "产品目录与库存",
+    "shipping": "本地快递运费计算",
+    "auth": "用户认证",
+    "sourceCode": "客户拥有源代码",
+    "digitalStrategy": "数字化战略咨询",
+    "scalable": "可扩展架构（高流量）",
+    "multiPlatform": "多平台集成（Web/API/移动）",
+    "sla": "SLA 正常运行时间与优先支持",
+    "highSecurity": "高标准数据安全",
+    "revisions": "修改次数",
+    "timeline": "项目时间线"
+  }
+},
+    "about": {
+      "eyebrow": "关于",
+      "title": "专注明确的小型工作室。",
+      "description": "Nacode 不是大型代理公司。我们是一家独立工作室，选择同时只承接有限项目，让每位客户都获得充分关注。",
+      "whyTitle": "Nacode 为何存在。",
+      "whyP1": "许多中小企业拥有值得信赖的产品或服务，但他们的数字形象未能体现这种品质。",
+      "whyP2": "Nacode 的使命就是缩小这一差距。我们打造的网站不仅好看，而且真正有效：快速、清晰，并引导访客采取行动。",
+      "vision": "愿景",
+      "visionText": "成为因作品质量与过程坦诚而受信赖的网页开发工作室。",
+      "mission": "使命",
+      "missionText": "通过用心设计、精确构建的网站，帮助企业建立强大的数字基础。",
+      "founder": "创始人",
+      "founderText": "Nacode 由创始人直接运营——从初步沟通、设计到开发。没有中间人，没有沟通接力。",
+      "startDiscuss": "开始沟通"
+    },
+    "blog": {
+      "eyebrow": "博客",
+      "title": "关于网络与商业的笔记。",
+      "description": "关于打造有效数字形象的实用洞察——没有术语，没有废话。",
+      "featured": "精选文章",
+      "searchPlaceholder": "搜索文章...",
+      "noResults": "没有匹配的文章。",
+      "related": "相关文章",
+      "relatedTitle": "继续阅读",
+      "onThisPage": "本页目录",
+      "backToBlog": "返回所有文章",
+      "author": "作者",
+      "allCategories": "全部"
+    },
+    "faq": {
+      "eyebrow": "常见问题",
+      "title": "常见问题解答。",
+      "description": "对我们最常收到的问题给予坦诚回答。",
+      "searchPlaceholder": "搜索问题...",
+      "noResults": "没有匹配的问题。",
+      "all": "全部",
+      "categories": {
+        "general": "常规",
+        "pricing": "价格",
+        "development": "开发流程",
+        "hosting": "主机与域名",
+        "maintenance": "维护",
+        "technical": "技术"
+      }
+    },
+    "contact": {
+      "eyebrow": "联系",
+      "title": "告诉我们您的项目。",
+      "description": "填写下方表单或直接联系我们。我们将在 1×24 个工作小时内回复。",
+      "email": "邮箱",
+      "location": "位置",
+      "form": {
+        "name": "姓名",
+        "business": "企业名称",
+        "email": "邮箱",
+        "whatsapp": "WhatsApp",
+        "websiteType": "网站类型",
+        "websiteTypePlaceholder": "选择网站类型",
+        "budget": "预算范围",
+        "budgetPlaceholder": "选择预算范围",
+        "description": "项目描述",
+        "submit": "通过 WhatsApp 发送",
+        "submitting": "正在打开 WhatsApp...",
+        "required": "必填",
+        "invalidEmail": "邮箱格式无效。",
+        "websiteTypes": {
+  "landing": "落地页",
+  "companyProfile": "企业官网",
+  "webApp": "定制 Web 应用",
+  "school": "学校网站",
+  "ecommerce": "电子商务",
+  "maintenance": "维护 / SEO"
+},
+"budgets": {
+  "under1": "低于 100 万印尼盾",
+  "between2and5": "200 万 – 500 万印尼盾",
+  "between5and10": "500 万 – 1000 万印尼盾",
+  "over10": "1000 万印尼盾以上"
+}
+      }
+    }
+  },
+  "footer": {
+    "sitemap": "网站地图",
+    "social": "社交",
+    "contact": "联系",
+    "copyright": "保留所有权利。",
+    "tagline": "用心设计。精确开发。",
+    "description": "为有抱负的企业打造现代数字体验的创意网页开发工作室。"
+  }
+}

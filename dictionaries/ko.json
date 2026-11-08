@@ -1,0 +1,353 @@
+{
+  "nav": {
+    "home": "홈",
+    "services": "서비스",
+    "portfolio": "포트폴리오",
+    "pricing": "가격",
+    "about": "소개",
+    "blog": "블로그",
+    "faq": "FAQ",
+    "contact": "문의"
+  },
+"common": {
+  "letsTalk": "상담하기",
+  "viewDemo": "데모 보기",
+  "viewLive": "사이트 방문",
+  "viewDetail": "자세히 보기",
+  "viewAll": "전체 보기",
+  "backTo": "돌아가기",
+  "readMore": "더 읽기",
+  "minRead": "분 소요",
+  "loading": "로딩 중...",
+  "searchPlaceholder": "검색...",
+  "noResults": "결과가 없습니다.",
+  "reset": "필터 초기화",
+  "copyLink": "링크 복사",
+  "copied": "복사됨",
+  "share": "공유",
+  "available": "일부 프로젝트 예약 가능",
+  "emailSubject": "신규 프로젝트 문의 — Nacode",
+  "included": "포함",
+  "setup": "설정",
+  "catalog": "카탈로그",
+  "customValue": "맞춤",
+  "enterpriseValue": "엔터프라이즈",
+  "roadmapValue": "로드맵",
+  "accountsUnit": "계정",
+  "daysUnit": "일"
+},
+  "hero": {
+    "eyebrow": "독립 웹 개발 스튜디오",
+    "title1": "디지털 경험을,",
+    "title2": "목적을 담아",
+    "titleAccent": "만듭니다.",
+    "description": "기업이 신뢰를 쌓고, 두각을 나타내고, 디지털 세계에서 성장할 수 있도록 현대적인 웹사이트를 디자인하고 개발합니다.",
+    "ctaWork": "작업 살펴보기",
+    "ctaProject": "프로젝트 시작",
+    "scroll": "스크롤하여 탐색"
+  },
+  "home": {
+    "work": {
+      "eyebrow": "01 — 포트폴리오",
+      "title": "선별된 작업.",
+      "subtitle": "목적을 담아 만든 디지털 경험의 모음.",
+      "viewAll": "전체 프로젝트 보기"
+    },
+    "services": {
+      "eyebrow": "02 — 서비스",
+      "title": "우리가 하는 일.",
+      "subtitle": "디자인, 전략, 엔지니어링을 결합해 아름다우면서도 기능적인 웹사이트를 만듭니다.",
+      "bottomLink": "다른 요구사항이 있으신가요? 상담해보세요",
+      "items": {
+        "business": {
+          "title": "비즈니스 웹사이트",
+          "desc": "신뢰와 전문성을 보여주고 싶은 기업 및 중소기업을 위한 전문 웹사이트."
+        },
+        "landing": {
+          "title": "랜딩 페이지",
+          "desc": "캠페인, 제품 출시, 전환을 위해 설계된 랜딩 페이지."
+        },
+        "custom": {
+          "title": "커스텀 웹 개발",
+          "desc": "비즈니스 워크플로우에 맞춰 처음부터 구축한, 특정 기능과 요구사항을 갖춘 웹사이트."
+        },
+        "design": {
+          "title": "UI/UX 디자인",
+          "desc": "모든 기기에서 현대적이고 직관적이며 사용하기 쉬운 인터페이스."
+        },
+        "optimization": {
+          "title": "웹사이트 최적화",
+          "desc": "성능 최적화, 반응형 디자인, 기술 SEO로 웹사이트가 최상의 성능을 발휘하도록 합니다."
+        }
+      }
+    },
+"about": {
+  "eyebrow": "04 — Nacode인 이유",
+  "title": "다르게 만들어집니다.",
+  "titleAccent": "목적을 담아.",
+  "description": "Nacode는 독립 웹 스튜디오입니다. 소수 고객과 집중적으로 작업하여 각 프로젝트에 필요한 관심을 쏟습니다. 중간 관리자도, 불필요한 과정도 없습니다.",
+  "cta": "함께 일하기",
+  "items": {
+    "custom": {
+      "title": "커스텀 디자인",
+      "desc": "모든 프로젝트는 처음부터 시작됩니다 — 템플릿도, 재활용 레이아웃도 없습니다."
+    },
+    "responsive": {
+      "title": "기본 반응형",
+      "desc": "모든 화면 크기에서 의도적으로 느껴지는 유연한 레이아웃."
+    },
+    "performance": {
+      "title": "성능 중심",
+      "desc": "빠른 로딩, 깨끗한 코드, 사용자를 존중하는 Lighthouse 점수."
+    },
+    "seo": {
+      "title": "SEO 친화적",
+      "desc": "시맨틱 마크업과 기술적 모범 사례가 첫날부터 내장되어 있습니다."
+    },
+    "transparent": {
+      "title": "투명한 프로세스",
+      "desc": "명확한 일정, 솔직한 업데이트, 예상치 못한 일 없음."
+    },
+    "detail": {
+      "title": "디테일 집중",
+      "desc": "간격, 모션, 타이포그래피 같은 작은 것들이 결코 뒷전이 되지 않습니다."
+    }
+  }
+},
+"pricing": {
+  "eyebrow": "05 — 가격",
+  "title": "명확한 가격.",
+  "titleAccent": "측정 가능한 기능.",
+  "subtitle": "중소기업 마이크로사이트부터 엔터프라이즈 전략적 소프트웨어 파트너십까지. 모든 패키지에 도메인 & 호스팅이 포함됩니다.",
+  "popular": "가장 인기",
+  "viewDetail": "자세히 보기",
+  "viewAll": "전체 {count}개 패키지 보기"
+},
+"process": {
+  "eyebrow": "03 — 프로세스",
+  "title": "아이디어에서 런칭까지.",
+  "subtitle": "첫 대화부터 최종 배포까지 명확하고 투명한 프로세스.",
+  "items": {
+    "discovery": {
+      "title": "발견",
+      "desc": "픽셀 하나 그리기 전에 비즈니스, 대상 고객, 목표를 이해합니다."
+    },
+    "design": {
+      "title": "디자인",
+      "desc": "브랜드에 맞는 비주얼 방향과 사용자 경험을 만듭니다."
+    },
+    "development": {
+      "title": "개발",
+      "desc": "반응형이고 빠르고 기능적인 웹사이트를 픽셀 단위로 구축합니다."
+    },
+    "launch": {
+      "title": "출시",
+      "desc": "테스트, 최적화, 배포. 웹사이트가 자신감 있게 라이브됩니다."
+    }
+  }
+},
+    "testimonials": {
+      "eyebrow": "06 — 신뢰",
+      "title": "신뢰 위에 세워진",
+      "titleAccent": "협업.",
+      "description": "첫 고객들의 이야기를 모으고 있습니다. 그동안 포트폴리오와 프로세스로 우리의 작업 방식을 확인하실 수 있습니다.",
+      "quote": "우리가 하는 모든 프로젝트는 목표, 제약, 그리고 비즈니스에 실제로 필요한 것에 대한 솔직한 대화에서 시작됩니다.",
+      "authorName": "Nacode Studio",
+      "authorRole": "스튜디오 원칙"
+    },
+    "faq": {
+      "eyebrow": "07 — FAQ",
+      "title": "자주 묻는",
+      "titleAccent": "질문.",
+      "viewAll": "전체 FAQ 보기"
+    },
+"cta": {
+  "eyebrow": "08 — 문의",
+  "title": "아이디어가 있으신가요?",
+  "titleAccent": "실현해 봅시다.",
+  "description": "비즈니스를 앞으로 나아가게 할 디지털 경험을 만들어 봅시다.",
+  "primaryCta": "대화 시작",
+  "secondaryCta": "이메일 보내기"
+}
+  },
+  "pages": {
+    "services": {
+      "eyebrow": "서비스",
+      "title": "실제 요구를 위해 설계된 서비스.",
+      "description": "모든 비즈니스는 다른 요구사항을 가지고 있습니다. 목표와 비즈니스 단계에 맞춘 서비스를 제공합니다.",
+      "detail": {
+        "overview": "개요",
+        "problems": "해결하는 문제",
+        "process": "개발 프로세스",
+        "features": "포함 사항",
+        "benefits": "혜택",
+        "pricingRef": "가격 참고",
+        "viewPricing": "모든 패키지 보기",
+        "related": "관련 포트폴리오",
+        "relatedTitle": "우리 작업 사례",
+        "allProjects": "모든 프로젝트",
+        "consult": "상담",
+        "faqTitle": "질문:"
+      }
+    },
+    "portfolio": {
+      "eyebrow": "포트폴리오",
+      "title": "목적을 담아 만든 작품.",
+      "description": "각 프로젝트는 문제와 해결의 탐구입니다. 대부분은 우리가 독립적으로 만든 컨셉 프로젝트입니다.",
+      "concept": "컨셉 프로젝트",
+      "allProjects": "모든 프로젝트",
+      "searchPlaceholder": "프로젝트 검색...",
+      "noResults": "검색과 일치하는 프로젝트가 없습니다.",
+      "detail": {
+        "overview": "개요",
+        "problem": "문제",
+        "solution": "해결",
+        "process": "개발 프로세스",
+        "features": "기능",
+        "techStack": "기술 스택",
+        "liveDemo": "라이브 데모",
+        "tryDemo": "이 프로젝트를 직접 체험해보세요",
+        "liveSite": "라이브 웹사이트",
+        "visitSite": "공식 웹사이트 방문",
+        "interested": "비슷한 프로젝트에 관심이 있습니다",
+        "related": "다른 프로젝트",
+        "allRelated": "모든 프로젝트",
+        "category": "카테고리",
+        "year": "연도",
+        "type": "유형",
+        "typeConcept": "컨셉 프로젝트",
+        "typeClient": "클라이언트 프로젝트"
+      }
+    },
+"pricing": {
+  "eyebrow": "가격",
+  "title": "명확한 가격. 측정 가능한 기능.",
+  "description": "일곱 개의 패키지, 일곱 개의 비즈니스 단계 — 마이크로사이트부터 전략적 소프트웨어 파트너십까지.",
+  "comparison": "패키지 비교",
+  "comparisonHint": "모든 {count}개 패키지를 보려면 표를 옆으로 스크롤하세요.",
+  "faqTitle": "가격 관련 질문",
+  "feature": "기능",
+  "popular": "가장 인기",
+  "ctaTitle": "어떤 패키지를 선택해야 할지 모르시겠나요?",
+  "ctaDescription": "비즈니스 단계를 알려주세요. 가장 적합한 패키지를 추천해 드립니다 — 업그레이드 강요 없이.",
+  "domainHosting": "도메인 & 호스팅",
+  "pages": "페이지",
+  "revisions": "수정",
+  "timeline": "일정",
+  "priceDisclaimer": "가격은 인도네시아 루피아 기준입니다. 다른 통화 환산은 추정치이며 환율에 따라 변동될 수 있습니다.",
+  "comparisonRows": {
+    "domainHosting": "도메인 & 호스팅",
+    "pageCount": "페이지 수",
+    "customDesign": "커스텀 디자인",
+    "responsive": "모바일 우선 반응형",
+    "seo": "기본 / 온페이지 SEO",
+    "whatsapp": "WhatsApp 연동",
+    "ssl": "SSL / HTTPS",
+    "businessEmail": "비즈니스 이메일",
+    "copywriting": "설득력 있는 카피라이팅",
+    "analytics": "FB Pixel / Google Analytics",
+    "cms": "CMS / 관리자 대시보드",
+    "productCatalog": "상품 카탈로그 & 재고",
+    "shipping": "로컬 택배사 배송비 계산",
+    "auth": "사용자 인증",
+    "sourceCode": "클라이언트 소유 소스 코드",
+    "digitalStrategy": "디지털화 전략 컨설팅",
+    "scalable": "확장 가능한 아키텍처 (높은 트래픽)",
+    "multiPlatform": "멀티 플랫폼 통합 (웹/API/모바일)",
+    "sla": "SLA 가동 시간 & 우선 지원",
+    "highSecurity": "높은 수준의 데이터 보안",
+    "revisions": "수정",
+    "timeline": "프로젝트 일정"
+  }
+},
+    "about": {
+      "eyebrow": "소개",
+      "title": "명확한 초점을 가진 작은 스튜디오.",
+      "description": "Nacode는 큰 에이전시가 아닙니다. 소수의 프로젝트에 집중해 모든 고객이 충분한 관심을 받을 수 있도록 선택한 독립 스튜디오입니다.",
+      "whyTitle": "Nacode가 존재하는 이유.",
+      "whyP1": "많은 중소기업이 신뢰받을 만한 제품이나 서비스를 가지고 있지만, 디지털 존재감은 그 품질을 반영하지 못합니다.",
+      "whyP2": "Nacode는 그 격차를 좁히기 위해 존재합니다. 보기 좋을 뿐 아니라 실제로 작동하는 웹사이트를 만듭니다: 빠르고, 명확하고, 방문자가 행동하도록 이끄는.",
+      "vision": "비전",
+      "visionText": "작업의 품질과 과정의 정직함으로 신뢰받는 웹 개발 스튜디오가 되는 것.",
+      "mission": "미션",
+      "missionText": "의도적으로 설계되고 정밀하게 구축된 웹사이트를 통해 기업이 강력한 디지털 기반을 구축하도록 돕는 것.",
+      "founder": "창립자",
+      "founderText": "Nacode는 창립자가 직접 운영합니다 — 초기 논의, 디자인, 개발까지. 중간 관리자도, 커뮤니케이션 릴레이도 없습니다.",
+      "startDiscuss": "대화 시작하기"
+    },
+    "blog": {
+      "eyebrow": "블로그",
+      "title": "웹 & 비즈니스에 관한 노트.",
+      "description": "효과적인 디지털 존재감 구축에 관한 실용적인 인사이트 — 전문 용어도, 채우기도 없이.",
+      "featured": "주요 아티클",
+      "searchPlaceholder": "아티클 검색...",
+      "noResults": "검색과 일치하는 아티클이 없습니다.",
+      "related": "관련 아티클",
+      "relatedTitle": "계속 읽기",
+      "onThisPage": "이 페이지에서",
+      "backToBlog": "모든 아티클로 돌아가기",
+      "author": "작성자",
+      "allCategories": "전체"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "자주 묻는 질문.",
+      "description": "가장 자주 받는 질문에 대한 솔직한 답변.",
+      "searchPlaceholder": "질문 검색...",
+      "noResults": "일치하는 질문이 없습니다.",
+      "all": "전체",
+      "categories": {
+        "general": "일반",
+        "pricing": "가격",
+        "development": "개발 프로세스",
+        "hosting": "호스팅 & 도메인",
+        "maintenance": "유지보수",
+        "technical": "기술"
+      }
+    },
+    "contact": {
+      "eyebrow": "문의",
+      "title": "프로젝트에 대해 알려주세요.",
+      "description": "아래 양식을 작성하거나 직접 연락해 주세요. 영업일 기준 1×24시간 내에 응답합니다.",
+      "email": "이메일",
+      "location": "위치",
+      "form": {
+        "name": "이름",
+        "business": "비즈니스 이름",
+        "email": "이메일",
+        "whatsapp": "WhatsApp",
+        "websiteType": "웹사이트 유형",
+        "websiteTypePlaceholder": "웹사이트 유형 선택",
+        "budget": "예산 범위",
+        "budgetPlaceholder": "예산 범위 선택",
+        "description": "프로젝트 설명",
+        "submit": "WhatsApp으로 보내기",
+        "submitting": "WhatsApp 여는 중...",
+        "required": "필수",
+        "invalidEmail": "이메일 형식이 올바르지 않습니다.",
+        "websiteTypes": {
+  "landing": "랜딩 페이지",
+  "companyProfile": "회사 소개",
+  "webApp": "맞춤 웹 앱",
+  "school": "학교 웹사이트",
+  "ecommerce": "이커머스",
+  "maintenance": "유지보수 / SEO"
+},
+"budgets": {
+  "under1": "100만 루피아 이하",
+  "between2and5": "200만 ~ 500만 루피아",
+  "between5and10": "500만 ~ 1,000만 루피아",
+  "over10": "1,000만 루피아 이상"
+}
+      }
+    }
+  },
+  "footer": {
+    "sitemap": "사이트맵",
+    "social": "소셜",
+    "contact": "연락처",
+    "copyright": "모든 권리 보유.",
+    "tagline": "의도적으로 디자인하고 정밀하게 개발합니다.",
+    "description": "야심찬 기업을 위한 현대적인 디지털 경험을 만드는 창의적인 웹 개발 스튜디오."
+  }
+}
