@@ -27,9 +27,9 @@ export default function HomePage() {
       <Hero />
       <SelectedWork />
       <Services />
+      <Process />
       <About />
       <PricingPreview />
-      <Process />
       <Testimonials />
       <FAQPreview />
       <CTA />
