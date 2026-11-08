@@ -40,13 +40,7 @@ export default async function Image() {
           >
             N
           </div>
-          <div
-            style={{
-              fontSize: "32px",
-              fontWeight: 600,
-              letterSpacing: "0.1em",
-            }}
-          >
+          <div style={{ display: "flex", fontSize: "32px", fontWeight: 600, letterSpacing: "0.1em" }}>
             NACODE
           </div>
         </div>
@@ -55,6 +49,8 @@ export default async function Image() {
         <div style={{ display: "flex", flexDirection: "column", gap: "24px" }}>
           <div
             style={{
+              display: "flex",
+              flexDirection: "column",
               fontSize: "72px",
               fontWeight: 500,
               lineHeight: 1.05,
@@ -62,21 +58,22 @@ export default async function Image() {
               maxWidth: "900px",
             }}
           >
-            Digital Experiences,
-            <br />
-            Built With{" "}
-            <span style={{ color: "#a5a0ff", fontStyle: "italic" }}>Purpose.</span>
+            <div style={{ display: "flex" }}>Digital Experiences,</div>
+            <div style={{ display: "flex", alignItems: "center" }}>
+              <span>Built With&nbsp;</span>
+              <span style={{ color: "#a5a0ff", fontStyle: "italic" }}>Purpose.</span>
+            </div>
           </div>
           <div
             style={{
+              display: "flex",
               fontSize: "24px",
               color: "#9295a3",
               maxWidth: "800px",
               lineHeight: 1.4,
             }}
           >
-            A creative web development studio crafting modern digital
-            experiences for ambitious businesses.
+            A creative web development studio crafting modern digital experiences for ambitious businesses.
           </div>
         </div>
 
