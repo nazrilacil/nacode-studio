@@ -5,7 +5,7 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://nacode.studio",
   description:
     "Nacode is a web development studio creating modern, responsive, and high-performance websites for businesses and brands.",
-  email: "nazrilacil04@gmail.com",
+  email: "nacodestudio0@gmail.com",
   whatsappNumber:
     process.env.NEXT_PUBLIC_WHATSAPP_NUMBER ?? "6285175414118",
   whatsappMessage:
