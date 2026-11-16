@@ -28,7 +28,7 @@ export const siteConfig = {
     { key: "nav.contact", href: "/kontak" },
   ],
   socials: [
-    { label: "Instagram", href: "https://instagram.com" },
+    { label: "Instagram", href: "https://www.instagram.com/nacode77" },
     { label: "LinkedIn", href: "https://linkedin.com" },
     { label: "GitHub", href: "https://github.com" },
   ],
