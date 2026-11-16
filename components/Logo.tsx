@@ -12,7 +12,8 @@ type LogoProps = {
 };
 
 export default function Logo({ variant = "horizontal", className = "" }: LogoProps) {
-  const iconSize = variant === "horizontal" ? "h-6 w-6" : "h-10 w-10";
+  // Ukuran sedikit diperbesar agar proporsional dengan bentuk logo yang baru
+  const iconSize = variant === "horizontal" ? "h-7 w-7" : "h-12 w-12";
   
   const NIcon = (
     <svg
@@ -22,8 +23,9 @@ export default function Logo({ variant = "horizontal", className = "" }: LogoPro
       xmlns="http://www.w3.org/2000/svg"
       aria-hidden="true"
     >
+      {/* Path SVG Baru */}
       <path
-        d="M15 15H38L78 68V15H95V85H72L32 32V85H15V15Z"
+        d="M27 85C17 85 10 68 20 52L40 22C47 10 63 10 73 24L88 47C95 60 90 85 75 85C65 85 57 77 51 66L39 81C35 84 31 85 27 85Z"
         fill="currentColor"
       />
     </svg>
