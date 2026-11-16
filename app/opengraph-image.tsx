@@ -22,25 +22,41 @@ export default async function Image() {
           fontFamily: "sans-serif",
         }}
       >
-        {/* Top — Logo */}
+        {/* Top — Logo Baru */}
         <div style={{ display: "flex", alignItems: "center", gap: "16px" }}>
           <div
             style={{
-              width: "56px",
-              height: "56px",
-              borderRadius: "12px",
+              width: "64px",
+              height: "64px",
+              borderRadius: "14px",
               background: "#6c63ff",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
-              fontSize: "32px",
-              fontWeight: 700,
-              color: "#fff",
             }}
           >
-            N
+            <svg
+              viewBox="0 0 100 100"
+              width="44"
+              height="44"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M27 85C17 85 10 68 20 52L40 22C47 10 63 10 73 24L88 47C95 60 90 85 75 85C65 85 57 77 51 66L39 81C35 84 31 85 27 85Z"
+                fill="#ffffff"
+              />
+            </svg>
           </div>
-          <div style={{ display: "flex", fontSize: "32px", fontWeight: 600, letterSpacing: "0.1em" }}>
+          <div
+            style={{
+              display: "flex",
+              fontSize: "36px",
+              fontWeight: 600,
+              letterSpacing: "0.12em",
+              color: "#F5F5F7",
+            }}
+          >
             NACODE
           </div>
         </div>
@@ -61,7 +77,9 @@ export default async function Image() {
             <div style={{ display: "flex" }}>Digital Experiences,</div>
             <div style={{ display: "flex", alignItems: "center" }}>
               <span>Built With&nbsp;</span>
-              <span style={{ color: "#a5a0ff", fontStyle: "italic" }}>Purpose.</span>
+              <span style={{ color: "#a5a0ff", fontStyle: "italic" }}>
+                Purpose.
+              </span>
             </div>
           </div>
           <div
@@ -73,7 +91,8 @@ export default async function Image() {
               lineHeight: 1.4,
             }}
           >
-            A creative web development studio crafting modern digital experiences for ambitious businesses.
+            A creative web development studio crafting modern digital
+            experiences for ambitious businesses.
           </div>
         </div>
 
