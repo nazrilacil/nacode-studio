@@ -33,6 +33,12 @@ const dictionaries: Record<Locale, Dictionary> = {
   ja: jaDict as Dictionary,
 };
 
+const STORAGE_KEY = "nacode-locale";
+
+function isLocale(value: string | null): value is Locale {
+  return value !== null && value in dictionaries;
+}
+
 type LanguageContextType = {
   locale: Locale;
   setLocale: (locale: Locale) => void;
@@ -45,33 +51,37 @@ const LanguageContext = createContext<LanguageContextType | undefined>(
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [locale, setLocaleState] = useState<Locale>("id");
-  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const saved = localStorage.getItem("nacode-locale") as Locale | null;
-    if (saved && ["id", "en", "ko", "zh", "ja"].includes(saved)) {
-      setLocaleState(saved);
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (isLocale(saved) && saved !== "id") {
+        setLocaleState(saved);
+        document.documentElement.lang = saved;
+      }
+    } catch {
+      // localStorage bisa tidak tersedia (mode privat, dll.). Abaikan.
     }
-    setMounted(true);
   }, []);
 
   const setLocale = (newLocale: Locale) => {
     setLocaleState(newLocale);
-    localStorage.setItem("nacode-locale", newLocale);
+    try {
+      localStorage.setItem(STORAGE_KEY, newLocale);
+    } catch {
+      // Abaikan.
+    }
     document.documentElement.lang = newLocale;
   };
 
   const t = (keyPath: string): string => {
-    if (!mounted) return "";
-    const dict = dictionaries[locale];
-    const keys = keyPath.split(".");
-    let value: any = dict;
-    for (const key of keys) {
-      if (value[key] === undefined) {
+    let value: any = dictionaries[locale];
+    for (const key of keyPath.split(".")) {
+      value = value?.[key];
+      if (value === undefined) {
         console.warn(`Translation missing: ${keyPath} for ${locale}`);
         return keyPath;
       }
-      value = value[key];
     }
     return value as string;
   };
