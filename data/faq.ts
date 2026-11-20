@@ -82,27 +82,27 @@ export const faqItems: FAQItem[] = [
     category: "Pricing",
     question: "Berapa biaya pembuatan website?",
     answer:
-      "Paket Microsite mulai dari Rp 750.000, Landing Page mulai dari Rp 1,8 juta, Corporate Identity mulai dari Rp 3,5 juta, hingga sistem operasional kustom mulai dari Rp 15 juta. Penawaran final mengikuti kebutuhan dan ruang lingkup.",
+      "Paket Microsite mulai dari Rp 550.000, Landing Page mulai dari Rp 1,8 juta, Corporate Identity mulai dari Rp 3,5 juta, hingga sistem operasional kustom mulai dari Rp 15 juta. Penawaran final mengikuti kebutuhan dan ruang lingkup.",
     translations: {
       en: {
         question: "How much does a website cost?",
         answer:
-          "Microsite packages start from Rp 750,000, Landing Pages from Rp 1.8 million, Corporate Identity from Rp 3.5 million, up to custom operational systems from Rp 15 million. Final quotes depend on scope and requirements.",
+          "Microsite packages start from Rp 550,000, Landing Pages from Rp 1.8 million, Corporate Identity from Rp 3.5 million, up to custom operational systems from Rp 15 million. Final quotes depend on scope and requirements.",
       },
       ko: {
         question: "웹사이트 제작 비용은 얼마인가요?",
         answer:
-          "마이크로사이트는 75만 루피아부터, 랜딩 페이지는 180만 루피아부터, 기업 아이덴티티는 350만 루피아부터, 맞춤 운영 시스템은 1,500만 루피아부터 시작합니다. 최종 견적은 요구사항과 범위에 따라 결정됩니다.",
+          "마이크로사이트는 55만 루피아부터, 랜딩 페이지는 180만 루피아부터, 기업 아이덴티티는 350만 루피아부터, 맞춤 운영 시스템은 1,500만 루피아부터 시작합니다. 최종 견적은 요구사항과 범위에 따라 결정됩니다.",
       },
       zh: {
         question: "制作网站需要多少钱？",
         answer:
-          "微网站套餐 75 万印尼盾起，落地页 180 万印尼盾起，企业标识 350 万印尼盾起，定制运营系统 1500 万印尼盾起。最终报价取决于需求和范围。",
+          "微网站套餐 55 万印尼盾起，落地页 180 万印尼盾起，企业标识 350 万印尼盾起，定制运营系统 1500 万印尼盾起。最终报价取决于需求和范围。",
       },
       ja: {
         question: "ウェブサイト制作の費用はいくらですか？",
         answer:
-          "マイクロサイトは75万ルピアから、ランディングページは180万ルピアから、コーポレートアイデンティティは350万ルピアから、カスタム運用システムは1,500万ルピアからとなります。最終的なお見積もりは要件と範囲によって異なります。",
+          "マイクロサイトは55万ルピアから、ランディングページは180万ルピアから、コーポレートアイデンティティは350万ルピアから、カスタム運用システムは1,500万ルピアからとなります。最終的なお見積もりは要件と範囲によって異なります。",
       },
     },
   },
