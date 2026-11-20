@@ -2,21 +2,29 @@
 import type { Metadata } from "next";
 import FaqContent from "./FaqContent";
 import { faqItems } from "@/data/faq";
+import { localizeFAQ } from "@/lib/localize";
 import { buildMetadata } from "@/lib/seo";
 import { faqSchema, breadcrumbSchema, JsonLd } from "@/lib/schema";
 
 export const metadata: Metadata = buildMetadata({
-  title: "Pertanyaan yang Sering Diajukan",
+  title: "FAQ Jasa Pembuatan Website: Harga, Proses, Hosting",
   description:
-    "Jawaban jujur untuk pertanyaan yang paling sering kami terima tentang layanan, harga, dan proses kerja Nacode.",
+    "Jawaban jujur tentang harga, proses kerja, domain, hosting, dan perawatan website di Nacode Studio.",
   path: "/faq",
 });
 
 export default function FAQPage() {
+  const itemsId = faqItems.map((f) => ({ ...f, ...localizeFAQ(f, "id") }));
+
   return (
     <>
-      <JsonLd data={faqSchema(faqItems)} />
-      <JsonLd data={breadcrumbSchema([{ label: "FAQ", href: "/faq" }])} />
+      <JsonLd data={faqSchema(itemsId)} />
+      <JsonLd
+        data={breadcrumbSchema([
+          { label: "Beranda", href: "/" },
+          { label: "FAQ", href: "/faq" },
+        ])}
+      />
       <FaqContent />
     </>
   );
